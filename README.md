@@ -6,7 +6,7 @@ Portfolio for Desta
 Write a short bio about yourself.
 
 ### Education
-**BSc in [Your Major]**  
+**BSc in Sociology**  
 Loyola University Maryland
 
 ### Projects
