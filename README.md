@@ -1,5 +1,6 @@
 # Desta Melaku's Portfolio
 Portfolio for Desta
+![profile](Profile Pic.PNG)
 # Desta Melaku
 Contact Info: destamelaku0@gmail.coms
 ### About Me 
@@ -24,7 +25,7 @@ Loyola University Maryland, Sociology B.A.
 
 #### Inventory Manager 
  - Summary
- - ![Inventory](Python.png)
+ - ![Inventory](Inventory Manager.png)
  - Project 1 Report
 ***
 #### Dashboard 
