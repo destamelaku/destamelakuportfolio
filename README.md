@@ -1,24 +1,26 @@
-# Desta Melaku
-Contact Info: [fill in]
-### About Me 
-[Fill in Madlibs here]
+# Destamelakuportfolio
+Portfolio for Desta
+# FirstName LastName
 
-### Education 
-[Fill in Education here]
-***
+### About Me
+Write a short bio about yourself.
+
+### Education
+**BSc in Sociology**  
+Loyola University Maryland
+
 ### Projects
 
 #### Project 1 Title
- - Project 1 Summary
- - [insert project 1 screenshot here]
- - Project 1 Report
+- ![Image](link-to-image)
+- [Read the Report](link-to-report)
+
 ***
 #### Project 2 Title
- - Project 2 Summary
- - [insert project 2 screenshot here]
- - Project 2 Report
+- ![Image](link-to-image)
+- Write-up here
+
 ***
 #### Project 3 Title
- - Project 3 Summary
- - [insert project 3 screenshot here]
- - Project 3 Report
+- ![Image](link-to-image)
+- Write-up here
