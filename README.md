@@ -1,6 +1,6 @@
 # Desta Melaku's Portfolio
 Portfolio for Desta
-![profile](Profile Pic.PNG)
+![profile](Profile Pic.png)
 # Desta Melaku
 Contact Info: destamelaku0@gmail.coms
 ### About Me 
