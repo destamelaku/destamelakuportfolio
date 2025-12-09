@@ -1,6 +1,5 @@
-# Auto detect text files and perform LF normalization
-* text=Auto
-title: Desta Melaku Portfolio
-# logo: /assets/img/headshot_circle.png
-# show_downloads: true
+title: FirstName LastName
+#logo: "/images/Profile Pic.PNG"
+#description: text below image
+#show_downloads: true
 theme: jekyll-theme-minimal
