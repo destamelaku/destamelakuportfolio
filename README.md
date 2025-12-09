@@ -1,26 +1,26 @@
 # Destamelakuportfolio
 Portfolio for Desta
-# FirstName LastName
-
-### About Me
-Write a short bio about yourself.
+# Desta Melaku
+Contact Info: destamelaku0@gmail.coms
+### About Me 
+[Fill in Madlibs here]
 
 ### Education
-**BSc in Sociology**  
-Loyola University Maryland
-
+Loyola University Maryland, Sociology B.A.
+***
 ### Projects
 
-#### Project 1 Title
-- ![Image](link-to-image)
-- [Read the Report](link-to-report)
-
+#### Inventory Manager 
+ - Summary
+ - ![Inventory](Python.png)
+ - Project 1 Report
 ***
-#### Project 2 Title
-- ![Image](link-to-image)
-- Write-up here
-
+#### Dashboard 
+ - Project 2 Summary
+ - ![Dashboard](Dashboard.png)
+ - Project 2 Report
 ***
-#### Project 3 Title
-- ![Image](link-to-image)
-- Write-up here
+#### Python
+ - Project 3 Summary
+ - ![Python](Python.png)
+ - Project 3 Report
