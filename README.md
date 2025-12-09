@@ -1,6 +1,6 @@
 # Desta Melaku's Portfolio
 Portfolio for Desta
-![profile]![alt text](<Assets/Profile Pic pt2.PNG>)
+![alt text](<Assets/Profile Pic pt2.PNG>)
 # Desta Melaku
 Contact Info: destamelaku0@gmail.coms
 ### About Me 
@@ -24,9 +24,12 @@ Loyola University Maryland, Sociology B.A.
 ### Projects
 
 #### Inventory Manager 
- - Summary
- - ![Inventory](Inventory Manager.png)
- - Project 1 Report
+ - Initial Project Idea: The goal of this project was to get used to microsoft excel as it was the first assignment. 
+ - ![Inventory](<Assets/Inventory Manager pt2 .png>)
+ - Tools I used: Microsoft Excel
+ - Challenges I faced: I struggled inserting the couple of formula for certain columns mostly beacuse of my confusion with how to plug in which cells I wanted to be used. I was able to figure out how to add multiple and individual cells as well as use shortcuts to solve this problem.
+ - Results: I was able to make it work but in the future I would like to organize the information better by using a different table set up. 
+ - Summary: In this project I had put in information for specific products, find the profit margins, and profit. 
 ***
 #### Business Dashboard 
  - Initial Project Idea: The goal of this project was to use formulas I had used in the past and present and learn how to pull data from other tables. I wanted to practice old and new techniques.
